@@ -9,9 +9,11 @@ git add arq.txt ou git add . -> adc arquivos antes do commit
 
 git commit -m "commit" -> dando commit nos arquivos adc
 
+### *********** ###
 git remote add origin github.com-blabla ->adc ao repositório do git 
 
 git push -u origin master -> jogar no github
+### *********** ###
 
 git branch -> lista os braches
 
